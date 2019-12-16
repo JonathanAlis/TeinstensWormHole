@@ -1,0 +1,8 @@
+TBA*7*4
+TBA*4*2
+TBA*3*2
+TBA*3*2
+AAA*3*2
+QQQ*4*2
+TTT*3*2
+III*4*2
